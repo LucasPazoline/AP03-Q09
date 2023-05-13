@@ -1,0 +1,14 @@
+#td1{
+    color: blue; text-align: center; background-color: rgb(192, 189, 189);
+}
+#td3{
+    background-color: rgb(192,189,189);
+    text-align: end;
+}
+td{
+    text-align: center;
+}
+
+#td2{
+    text-align: justify;
+}
